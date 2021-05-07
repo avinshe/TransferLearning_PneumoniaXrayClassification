@@ -1,0 +1,14 @@
+Research Paper: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7345724/
+Efficient Pneumonia Detection in Chest Xray Images Using Deep Transfer Learning
+Mohammad Farukh Hashmi, Satyarth Katiyar, AvinashG Keskar, Neeraj Dhanraj Bokde, and Zong Woo Geem
+
+Other sources:
+1.	WHO Pneumonia is the Leading Cause of Death in Children. [(accessed on 31 December 2019)];2011 Available online: https://www.who.int/maternal_child_adolescent/news_events/news/2011/pneumonia/en.
+2.	 He K., Zhang X., Ren S., Sun J. Deep residual learning for image recognition; Proceedings of the Conference on Computer Vision and Pattern Recognition; Las Vegas, NV, USA. 26 June–1 July 2016; pp. 770–778
+3.	Huang G., Liu Z., Van Der Maaten L., Weinberger K.Q. The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Jul, 2017. Densely connected convolutional networks; pp. 4700–4708.
+4.	Szegedy C., Vanhoucke V., Ioffe S., Shlens J., Wojna Z. Rethinking the inception architecture for computer vision; Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition; Las Vegas, NV, USA. 26 June–1 July 2016; pp. 2818–2826.
+5.	https://towardsdatascience.com/keras-transfer-learning-for-beginners-6c9b8b7143e
+6.	https://www.researchgate.net/figure/The-architecture-of-ResNet50-and-deep-learning-model-flowchart-a-b-Architecture-of_fig1_334767096
+7.	https://towardsdatascience.com/creating-densenet-121-with-tensorflow-edbc08a956d8#:~:text=DenseNet%20(Dense%20Convolutional%20Network)%20is,shorter%20connections%20between%20the%20layers.
+8.	https://machinelearningmastery.com/how-to-implement-major-architecture-innovations-for-convolutional-neural-networks/
+9.	https://towardsdatascience.com/deep-learning-for-detecting-pneumonia-from-x-ray-images-fc9a3d9fdba8
